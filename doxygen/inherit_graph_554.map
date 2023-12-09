@@ -1,0 +1,258 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Attribute.html" title="Attributes are known&#45;constant values of operations." alt="" coords="339,203,453,229"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1Interface.html" title=" " alt="" coords="641,107,860,178"/>
+<area shape="rect" id="node4" href="$classmlir_1_1detail_1_1StorageUserBase.html" title=" " alt="" coords="629,731,873,802"/>
+<area shape="rect" id="node6" href="$classmlir_1_1BoolAttr.html" title="Special case of IntegerAttr to represent boolean integers, i.e., signless i1 integers." alt="" coords="696,203,805,229"/>
+<area shape="rect" id="node7" href="$classmlir_1_1DenseElementsAttr.html" title="An attribute that represents a reference to a dense vector or tensor object." alt="" coords="659,253,842,280"/>
+<area shape="rect" id="node9" href="$classmlir_1_1LLVM_1_1DINodeAttr.html" title="This class represents the base attribute for all debug info attributes." alt="" coords="665,304,836,331"/>
+<area shape="rect" id="node13" href="$classmlir_1_1LLVM_1_1TBAANodeAttr.html" title="Base class for LLVM attributes participating in the TBAA graph." alt="" coords="655,5,846,32"/>
+<area shape="rect" id="node14" href="$classmlir_1_1LocationAttr.html" title="Location objects represent source locations information in MLIR." alt="" coords="683,56,818,83"/>
+<area shape="rect" id="node3" href="$classmlir_1_1AttributeInterface.html" title="This class represents the base of an attribute interface." alt="" coords="1010,122,1193,163"/>
+<area shape="rect" id="node5" href="$classmlir_1_1DistinctAttr.html" title="An attribute that associates a referenced attribute with a unique identifier." alt="" coords="1036,380,1167,407"/>
+<area shape="rect" id="node8" href="$classmlir_1_1SplatElementsAttr.html" title="An attribute that represents a reference to a splat vector or tensor constant, meaning all of the ele..." alt="" coords="1014,228,1189,255"/>
+<area shape="rect" id="node10" href="$classmlir_1_1LLVM_1_1DIScopeAttr.html" title="This class represents a LLVM attribute that describes a debug info scope." alt="" coords="1014,329,1189,356"/>
+<area shape="rect" id="node12" href="$classmlir_1_1LLVM_1_1DITypeAttr.html" title="This class represents a LLVM attribute that describes a debug info type." alt="" coords="1018,279,1185,305"/>
+<area shape="rect" id="node11" href="$classmlir_1_1LLVM_1_1DILocalScopeAttr.html" title="This class represents a LLVM attribute that describes a local debug info scope." alt="" coords="1327,329,1537,356"/>
+<area shape="rect" id="node15" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from." alt="" coords="672,6310,829,6351"/>
+<area shape="rect" id="node16" href="$classmlir_1_1AttributeStorage.html" title="Base storage class appearing in an attribute." alt="" coords="1020,8375,1183,8401"/>
+<area shape="rect" id="node29" href="$classmlir_1_1GenericProgramPoint.html" title="Abstract class for generic program points." alt="" coords="1004,3877,1199,3904"/>
+<area shape="rect" id="node33" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type." alt="" coords="1033,4029,1169,4056"/>
+<area shape="rect" id="node56" href="$structmlir_1_1detail_1_1AffineExprStorage.html" title="Base storage class appearing in an affine expression." alt="" coords="1017,4629,1185,4670"/>
+<area shape="rect" id="node60" href="$structmlir_1_1detail_1_1AffineMapStorage.html" title=" " alt="" coords="993,3979,1210,4005"/>
+<area shape="rect" id="node61" href="$structmlir_1_1detail_1_1IntegerSetStorage.html" title=" " alt="" coords="1017,7742,1185,7783"/>
+<area shape="rect" id="node62" href="$classmlir_1_1pdl__to__pdl__interp_1_1Position.html" title="A position describes a value on the input IR on which a predicate may be applied, such as an operatio..." alt="" coords="1017,5291,1185,5333"/>
+<area shape="rect" id="node85" href="$classmlir_1_1pdl__to__pdl__interp_1_1Qualifier.html" title="An ordinal predicate consists of a &quot;Question&quot; and a set of acceptable &quot;Answers&quot; (later converted to o..." alt="" coords="1017,6521,1185,6562"/>
+<area shape="rect" id="node118" href="$structmlir_1_1pdll_1_1ast_1_1Type_1_1Storage.html" title=" " alt="" coords="1028,7677,1175,7718"/>
+<area shape="rect" id="node17" href="$structmlir_1_1detail_1_1DenseElementsAttributeStorage.html" title="An attribute representing a reference to a dense vector or tensor object." alt="" coords="1331,8809,1533,8850"/>
+<area shape="rect" id="node20" href="$structmlir_1_1detail_1_1DistinctAttrStorage.html" title="An attribute to store a distinct reference to another attribute." alt="" coords="1345,8205,1519,8246"/>
+<area shape="rect" id="node21" href="$structmlir_1_1detail_1_1DynamicAttrStorage.html" title="Storage of DynamicAttr." alt="" coords="1341,8270,1523,8311"/>
+<area shape="rect" id="node22" href="$structmlir_1_1detail_1_1StringAttrStorage.html" title=" " alt="" coords="1351,8335,1513,8377"/>
+<area shape="rect" id="node23" href="$classmlir_1_1impl_1_1DataLayoutEntryStorage.html" title=" " alt="" coords="1331,8401,1533,8442"/>
+<area shape="rect" id="node24" href="$classmlir_1_1impl_1_1DataLayoutSpecStorage.html" title=" " alt="" coords="1333,8466,1531,8507"/>
+<area shape="rect" id="node25" href="$structmlir_1_1spirv_1_1detail_1_1InterfaceVarABIAttributeStorage.html" title=" " alt="" coords="1338,8532,1526,8588"/>
+<area shape="rect" id="node26" href="$structmlir_1_1spirv_1_1detail_1_1TargetEnvAttributeStorage.html" title=" " alt="" coords="1331,8613,1533,8654"/>
+<area shape="rect" id="node27" href="$structmlir_1_1spirv_1_1detail_1_1VerCapExtAttributeStorage.html" title=" " alt="" coords="1330,8678,1534,8719"/>
+<area shape="rect" id="node28" href="$structmlir_1_1vector_1_1detail_1_1BitmaskEnumStorage.html" title=" " alt="" coords="1347,8743,1517,8785"/>
+<area shape="rect" id="node18" href="$structmlir_1_1detail_1_1DenseIntOrFPElementsAttrStorage.html" title="An attribute representing a reference to a dense vector or tensor object." alt="" coords="1665,8777,1839,8818"/>
+<area shape="rect" id="node19" href="$structmlir_1_1detail_1_1DenseStringElementsAttrStorage.html" title="An attribute representing a reference to a dense vector or tensor object containing strings." alt="" coords="1662,8842,1842,8883"/>
+<area shape="rect" id="node30" href="$classmlir_1_1GenericProgramPointBase.html" title=" " alt="" coords="1335,3303,1529,3359"/>
+<area shape="rect" id="node32" href="$classmlir_1_1GenericProgramPointBase.html" title="Base class for generic program points based on a concrete program point type and a content key." alt="" coords="1335,3237,1529,3278"/>
+<area shape="rect" id="node31" href="$classmlir_1_1dataflow_1_1CFGEdge.html" title="This program point represents a control&#45;flow edge between a block and one of its successors." alt="" coords="1663,3317,1841,3344"/>
+<area shape="rect" id="node34" href="$structmlir_1_1LLVM_1_1detail_1_1LLVMStructTypeStorage.html" title="Type storage for LLVM structure types." alt="" coords="1341,4022,1523,4063"/>
+<area shape="rect" id="node35" href="$structmlir_1_1LLVM_1_1detail_1_1LLVMTypeAndSizeStorage.html" title="Common storage used for LLVM dialect types that need an element type and a number: arrays,..." alt="" coords="1334,4087,1530,4129"/>
+<area shape="rect" id="node36" href="$structmlir_1_1detail_1_1DynamicTypeStorage.html" title="Storage of DynamicType." alt="" coords="1337,4153,1527,4194"/>
+<area shape="rect" id="node37" href="$structmlir_1_1detail_1_1FunctionTypeStorage.html" title="Function Type Storage and Uniquing." alt="" coords="1339,4218,1525,4259"/>
+<area shape="rect" id="node38" href="$structmlir_1_1detail_1_1IntegerTypeStorage.html" title="Integer Type Storage and Uniquing." alt="" coords="1343,4283,1521,4325"/>
+<area shape="rect" id="node39" href="$structmlir_1_1detail_1_1TupleTypeStorage.html" title="A type representing a collection of other types." alt="" coords="1325,3383,1539,3409"/>
+<area shape="rect" id="node40" href="$structmlir_1_1gpu_1_1MMAMatrixStorageType.html" title="MMAMatrixType storage and uniquing." alt="" coords="1311,4349,1553,4376"/>
+<area shape="rect" id="node41" href="$structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html" title=" " alt="" coords="1344,4401,1520,4442"/>
+<area shape="rect" id="node46" href="$structspirv_1_1detail_1_1ArrayTypeStorage.html" title=" " alt="" coords="1359,4466,1505,4507"/>
+<area shape="rect" id="node47" href="$structspirv_1_1detail_1_1CooperativeMatrixNVTypeStorage.html" title=" " alt="" coords="1307,3434,1557,3475"/>
+<area shape="rect" id="node48" href="$structspirv_1_1detail_1_1CooperativeMatrixTypeStorage.html" title=" " alt="" coords="1317,3499,1547,3541"/>
+<area shape="rect" id="node49" href="$structspirv_1_1detail_1_1ImageTypeStorage.html" title=" " alt="" coords="1357,3565,1507,3606"/>
+<area shape="rect" id="node50" href="$structspirv_1_1detail_1_1JointMatrixTypeStorage.html" title=" " alt="" coords="1341,3630,1523,3671"/>
+<area shape="rect" id="node51" href="$structspirv_1_1detail_1_1MatrixTypeStorage.html" title=" " alt="" coords="1356,3695,1508,3737"/>
+<area shape="rect" id="node52" href="$structspirv_1_1detail_1_1PointerTypeStorage.html" title=" " alt="" coords="1354,3761,1510,3802"/>
+<area shape="rect" id="node53" href="$structspirv_1_1detail_1_1RuntimeArrayTypeStorage.html" title=" " alt="" coords="1332,3826,1532,3867"/>
+<area shape="rect" id="node54" href="$structspirv_1_1detail_1_1SampledImageTypeStorage.html" title=" " alt="" coords="1328,3891,1536,3933"/>
+<area shape="rect" id="node55" href="$structspirv_1_1detail_1_1StructTypeStorage.html" title="Type storage for SPIR&#45;V structure types:" alt="" coords="1358,3957,1506,3998"/>
+<area shape="rect" id="node42" href="$structmlir_1_1quant_1_1detail_1_1AnyQuantizedTypeStorage.html" title=" " alt="" coords="1651,4367,1853,4409"/>
+<area shape="rect" id="node43" href="$structmlir_1_1quant_1_1detail_1_1CalibratedQuantizedTypeStorage.html" title=" " alt="" coords="1631,4433,1873,4474"/>
+<area shape="rect" id="node44" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage.html" title=" " alt="" coords="1638,4499,1866,4555"/>
+<area shape="rect" id="node45" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedTypeStorage.html" title=" " alt="" coords="1637,4302,1867,4343"/>
+<area shape="rect" id="node57" href="$structmlir_1_1detail_1_1AffineBinaryOpExprStorage.html" title="A binary operation appearing in an affine expression." alt="" coords="1341,4531,1523,4573"/>
+<area shape="rect" id="node58" href="$structmlir_1_1detail_1_1AffineConstantExprStorage.html" title="An integer constant appearing in affine expression." alt="" coords="1333,4597,1531,4638"/>
+<area shape="rect" id="node59" href="$structmlir_1_1detail_1_1AffineDimExprStorage.html" title="A dimensional or symbolic identifier appearing in an affine expression." alt="" coords="1335,4662,1529,4703"/>
+<area shape="rect" id="node63" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1327,5230,1537,5301"/>
+<area shape="rect" id="node65" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1286,5325,1578,5395"/>
+<area shape="rect" id="node67" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1311,5733,1553,5803"/>
+<area shape="rect" id="node69" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1283,5419,1581,5490"/>
+<area shape="rect" id="node71" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1288,5514,1576,5585"/>
+<area shape="rect" id="node73" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1305,5609,1559,5709"/>
+<area shape="rect" id="node75" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1319,4727,1545,4798"/>
+<area shape="rect" id="node77" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1293,4822,1571,4893"/>
+<area shape="rect" id="node79" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1305,4917,1559,5017"/>
+<area shape="rect" id="node81" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1313,5041,1551,5111"/>
+<area shape="rect" id="node83" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1281,5135,1583,5206"/>
+<area shape="rect" id="node64" href="$structmlir_1_1pdl__to__pdl__interp_1_1TypeLiteralPosition.html" title="A position describing a literal type or type range." alt="" coords="1668,5245,1836,5286"/>
+<area shape="rect" id="node66" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperandPosition.html" title="A position describing an operand of an operation." alt="" coords="1668,5339,1836,5381"/>
+<area shape="rect" id="node68" href="$structmlir_1_1pdl__to__pdl__interp_1_1UsersPosition.html" title="A position describing the users of a value or a range of values." alt="" coords="1668,5747,1836,5789"/>
+<area shape="rect" id="node70" href="$structmlir_1_1pdl__to__pdl__interp_1_1AttributePosition.html" title="A position describing an attribute of an operation." alt="" coords="1668,5434,1836,5475"/>
+<area shape="rect" id="node72" href="$structmlir_1_1pdl__to__pdl__interp_1_1ForEachPosition.html" title="A position describing an iterative choice of an operation." alt="" coords="1668,5529,1836,5570"/>
+<area shape="rect" id="node74" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperandGroupPosition.html" title="A position describing an operand group of an operation." alt="" coords="1664,5638,1840,5679"/>
+<area shape="rect" id="node76" href="$structmlir_1_1pdl__to__pdl__interp_1_1TypePosition.html" title="A position describing the result type of an entity, i.e." alt="" coords="1668,4742,1836,4783"/>
+<area shape="rect" id="node78" href="$structmlir_1_1pdl__to__pdl__interp_1_1ResultPosition.html" title="A position describing a result of an operation." alt="" coords="1668,4837,1836,4878"/>
+<area shape="rect" id="node80" href="$structmlir_1_1pdl__to__pdl__interp_1_1ResultGroupPosition.html" title="A position describing a result group of an operation." alt="" coords="1668,4946,1836,4987"/>
+<area shape="rect" id="node82" href="$structmlir_1_1pdl__to__pdl__interp_1_1AttributeLiteralPosition.html" title="A position describing a literal attribute." alt="" coords="1662,5055,1842,5097"/>
+<area shape="rect" id="node84" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperationPosition.html" title="An operation position describes an operation node in the IR." alt="" coords="1668,5150,1836,5191"/>
+<area shape="rect" id="node86" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1323,7199,1541,7270"/>
+<area shape="rect" id="node88" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1293,7294,1571,7365"/>
+<area shape="rect" id="node90" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1298,5827,1566,5898"/>
+<area shape="rect" id="node92" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1307,5922,1557,5993"/>
+<area shape="rect" id="node94" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1321,6017,1543,6087"/>
+<area shape="rect" id="node96" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1302,6111,1562,6182"/>
+<area shape="rect" id="node98" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1299,6207,1565,6292"/>
+<area shape="rect" id="node100" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1321,6317,1543,6387"/>
+<area shape="rect" id="node102" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1305,6411,1559,6482"/>
+<area shape="rect" id="node104" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1303,6506,1561,6577"/>
+<area shape="rect" id="node106" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1307,6601,1557,6671"/>
+<area shape="rect" id="node108" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1298,6695,1566,6766"/>
+<area shape="rect" id="node110" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1309,6790,1555,6861"/>
+<area shape="rect" id="node112" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1299,6885,1565,6971"/>
+<area shape="rect" id="node114" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1292,6995,1572,7080"/>
+<area shape="rect" id="node116" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="1317,7105,1547,7175"/>
+<area shape="rect" id="node87" href="$structmlir_1_1pdl__to__pdl__interp_1_1TrueAnswer.html" title="An Answer representing a boolean true value." alt="" coords="1668,7214,1836,7255"/>
+<area shape="rect" id="node89" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperationNameQuestion.html" title="Compare the name of an operation with a known value." alt="" coords="1657,7309,1847,7350"/>
+<area shape="rect" id="node91" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperationNameAnswer.html" title="An Answer representing an OperationName value." alt="" coords="1661,5842,1843,5883"/>
+<area shape="rect" id="node93" href="$structmlir_1_1pdl__to__pdl__interp_1_1EqualToQuestion.html" title="Compare the equality of two values." alt="" coords="1668,5937,1836,5978"/>
+<area shape="rect" id="node95" href="$structmlir_1_1pdl__to__pdl__interp_1_1TypeAnswer.html" title="An Answer representing a Type value." alt="" coords="1668,6031,1836,6073"/>
+<area shape="rect" id="node97" href="$structmlir_1_1pdl__to__pdl__interp_1_1IsNotNullQuestion.html" title="Compare a positional value with null, i.e. check if it exists." alt="" coords="1668,6126,1836,6167"/>
+<area shape="rect" id="node99" href="$structmlir_1_1pdl__to__pdl__interp_1_1ResultCountAtLeastQuestion.html" title=" " alt="" coords="1644,6229,1860,6270"/>
+<area shape="rect" id="node101" href="$structmlir_1_1pdl__to__pdl__interp_1_1FalseAnswer.html" title="An Answer representing a boolean &#39;false&#39; value." alt="" coords="1668,6331,1836,6373"/>
+<area shape="rect" id="node103" href="$structmlir_1_1pdl__to__pdl__interp_1_1ResultCountQuestion.html" title="Compare the number of results of an operation with a known value." alt="" coords="1668,6426,1836,6467"/>
+<area shape="rect" id="node105" href="$structmlir_1_1pdl__to__pdl__interp_1_1AttributeQuestion.html" title="Compare an Attribute to a constant value." alt="" coords="1668,6521,1836,6562"/>
+<area shape="rect" id="node107" href="$structmlir_1_1pdl__to__pdl__interp_1_1UnsignedAnswer.html" title="An Answer representing an unsigned value." alt="" coords="1668,6615,1836,6657"/>
+<area shape="rect" id="node109" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperandCountQuestion.html" title="Compare the number of operands of an operation with a known value." alt="" coords="1661,6710,1843,6751"/>
+<area shape="rect" id="node111" href="$structmlir_1_1pdl__to__pdl__interp_1_1AttributeAnswer.html" title="An Answer representing an Attribute value." alt="" coords="1668,6805,1836,6846"/>
+<area shape="rect" id="node113" href="$structmlir_1_1pdl__to__pdl__interp_1_1ConstraintQuestion.html" title="Apply a parameterized constraint to multiple position values." alt="" coords="1668,6907,1836,6949"/>
+<area shape="rect" id="node115" href="$structmlir_1_1pdl__to__pdl__interp_1_1OperandCountAtLeastQuestion.html" title=" " alt="" coords="1637,7017,1867,7058"/>
+<area shape="rect" id="node117" href="$structmlir_1_1pdl__to__pdl__interp_1_1TypeQuestion.html" title="Compare the type of an attribute or value with a known type." alt="" coords="1668,7119,1836,7161"/>
+<area shape="rect" id="node119" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1321,7549,1543,7605"/>
+<area shape="rect" id="node121" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1313,7629,1551,7685"/>
+<area shape="rect" id="node123" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1325,7709,1539,7765"/>
+<area shape="rect" id="node125" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1318,7789,1546,7845"/>
+<area shape="rect" id="node127" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1320,7869,1544,7925"/>
+<area shape="rect" id="node129" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1299,7950,1565,8021"/>
+<area shape="rect" id="node131" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1291,8045,1573,8086"/>
+<area shape="rect" id="node133" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title=" " alt="" coords="1311,8110,1553,8181"/>
+<area shape="rect" id="node135" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="A utility CRTP base class that defines many of the necessary utilities for defining a PDLL AST Type." alt="" coords="1319,7389,1545,7445"/>
+<area shape="rect" id="node136" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase_3_01ConcreteT_00_01void_01_4.html" title="A specialization of the storage base for singleton types." alt="" coords="1319,7469,1545,7525"/>
+<area shape="rect" id="node120" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1ValueTypeStorage.html" title=" " alt="" coords="1675,7557,1829,7598"/>
+<area shape="rect" id="node122" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1RewriteTypeStorage.html" title=" " alt="" coords="1672,7637,1832,7678"/>
+<area shape="rect" id="node124" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1AttributeTypeStorage.html" title=" " alt="" coords="1669,7717,1835,7758"/>
+<area shape="rect" id="node126" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1RangeTypeStorage.html" title=" " alt="" coords="1675,7797,1829,7838"/>
+<area shape="rect" id="node128" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1ConstraintTypeStorage.html" title=" " alt="" coords="1663,7877,1841,7918"/>
+<area shape="rect" id="node130" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TupleTypeStorage.html" title=" " alt="" coords="1675,7965,1829,8006"/>
+<area shape="rect" id="node132" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeTypeStorage.html" title=" " alt="" coords="1675,8045,1829,8086"/>
+<area shape="rect" id="node134" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1OperationTypeStorage.html" title=" " alt="" coords="1665,8125,1839,8166"/>
+<area shape="rect" id="node137" href="$classBaseT.html" title=" " alt="" coords="365,2655,427,2681"/>
+<area shape="rect" id="node138" href="$classmlir_1_1PassWrapper.html" title="This class provides a CRTP wrapper around a base pass class to define several necessary utility metho..." alt="" coords="675,3150,826,3191"/>
+<area shape="rect" id="node139" href="$classmlir_1_1detail_1_1AsmParserImpl.html" title="This class provides the implementation of the generic parser methods within AsmParser." alt="" coords="651,3215,850,3257"/>
+<area shape="rect" id="node140" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types." alt="" coords="641,2185,861,2226"/>
+<area shape="rect" id="node152" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer." alt="" coords="646,1148,855,1204"/>
+<area shape="rect" id="node180" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="Base class for all predicates, used to allow efficient pointer comparison." alt="" coords="647,651,855,707"/>
+<area shape="rect" id="node181" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase_3_01ConcreteT_00_01BaseT_00_01void_00_01Kind_01_4.html" title="Base storage for simple predicates that only unique with the kind." alt="" coords="647,2640,855,2696"/>
+<area shape="rect" id="node182" href="$classmlir_1_1pdll_1_1ast_1_1Node_1_1NodeBase.html" title="This CRTP class provides several utilies when defining new AST nodes." alt="" coords="659,3085,842,3126"/>
+<area shape="rect" id="node141" href="$classmlir_1_1BytecodeDialectInterface.html" title=" " alt="" coords="991,1957,1212,1984"/>
+<area shape="rect" id="node142" href="$classmlir_1_1ConvertToLLVMPatternInterface.html" title="Base class for dialect interfaces providing translation to LLVM IR." alt="" coords="1001,2009,1202,2050"/>
+<area shape="rect" id="node143" href="$classmlir_1_1DataLayoutDialectInterface.html" title="An interface to be implemented by dialects that can have identifiers in the data layout specification..." alt="" coords="984,2075,1219,2101"/>
+<area shape="rect" id="node144" href="$classmlir_1_1DialectFoldInterface.html" title="Define a fold interface to allow for dialects to control specific aspects of the folding behavior for..." alt="" coords="1008,2192,1195,2219"/>
+<area shape="rect" id="node145" href="$classmlir_1_1DialectInlinerInterface.html" title="This is the interface that must be implemented by the dialects of operations to be inlined." alt="" coords="1001,2243,1202,2269"/>
+<area shape="rect" id="node146" href="$classmlir_1_1DialectReductionPatternInterface.html" title="This is used to report the reduction patterns for a Dialect." alt="" coords="995,2294,1208,2335"/>
+<area shape="rect" id="node147" href="$classmlir_1_1LLVMImportDialectInterface.html" title="Base class for dialect interfaces used to import LLVM IR." alt="" coords="983,2360,1220,2387"/>
+<area shape="rect" id="node148" href="$classmlir_1_1LLVMTranslationDialectInterface.html" title="Base class for dialect interfaces providing translation to LLVM IR." alt="" coords="998,2411,1205,2453"/>
+<area shape="rect" id="node149" href="$classmlir_1_1OpAsmDialectInterface.html" title=" " alt="" coords="998,1907,1205,1933"/>
+<area shape="rect" id="node150" href="$classmlir_1_1ResourceBlobManagerDialectInterface.html" title="This class implements a dialect interface that provides common functionality for interacting with a r..." alt="" coords="1000,2126,1203,2167"/>
+<area shape="rect" id="node151" href="$classmlir_1_1ResourceBlobManagerDialectInterfaceBase.html" title="This class provides a base class for dialects implementing the resource blob interface." alt="" coords="1311,2126,1553,2167"/>
+<area shape="rect" id="node153" href="$classmlir_1_1DataLayoutEntryAttr.html" title="A data layout entry attribute is a key&#45;value pair where the key is a type or an identifier and the va..." alt="" coords="1007,735,1196,761"/>
+<area shape="rect" id="node154" href="$classmlir_1_1DataLayoutSpecAttr.html" title="A data layout specification is a list of entries that specify (partial) data layout information." alt="" coords="1008,785,1195,812"/>
+<area shape="rect" id="node155" href="$classmlir_1_1DynamicAttr.html" title="A dynamic attribute instance." alt="" coords="1032,836,1171,863"/>
+<area shape="rect" id="node156" href="$classmlir_1_1DynamicType.html" title="A dynamic type instance." alt="" coords="1029,887,1173,913"/>
+<area shape="rect" id="node157" href="$classmlir_1_1LLVM_1_1LLVMStructType.html" title="LLVM dialect structure type representing a collection of different&#45;typed elements manipulated togethe..." alt="" coords="1001,937,1201,964"/>
+<area shape="rect" id="node158" href="$classmlir_1_1gpu_1_1AsyncTokenType.html" title=" " alt="" coords="1004,988,1199,1015"/>
+<area shape="rect" id="node159" href="$classmlir_1_1gpu_1_1MMAMatrixType.html" title="MMAMatrix represents a matrix held by a subgroup for matrix&#45;matrix multiply accumulate operations." alt="" coords="1005,1039,1198,1065"/>
+<area shape="rect" id="node160" href="$classmlir_1_1gpu_1_1SparseDnTensorHandleType.html" title=" " alt="" coords="1005,1090,1197,1131"/>
+<area shape="rect" id="node161" href="$classmlir_1_1gpu_1_1SparseSpGEMMOpHandleType.html" title=" " alt="" coords="997,1155,1205,1197"/>
+<area shape="rect" id="node162" href="$classmlir_1_1gpu_1_1SparseSpMatHandleType.html" title=" " alt="" coords="977,1221,1226,1248"/>
+<area shape="rect" id="node163" href="$classmlir_1_1quant_1_1AnyQuantizedType.html" title="A quantized type that maps storage to/from expressed types in an unspecified way." alt="" coords="990,1272,1213,1299"/>
+<area shape="rect" id="node164" href="$classmlir_1_1quant_1_1CalibratedQuantizedType.html" title="A quantized type that infers its range from given min/max values." alt="" coords="969,1323,1233,1349"/>
+<area shape="rect" id="node165" href="$classmlir_1_1quant_1_1UniformQuantizedPerAxisType.html" title="Represents per&#45;axis (also known as per&#45;channel quantization)." alt="" coords="991,1374,1211,1415"/>
+<area shape="rect" id="node166" href="$classmlir_1_1quant_1_1UniformQuantizedType.html" title="Represents a family of uniform, quantized types." alt="" coords="976,1440,1227,1467"/>
+<area shape="rect" id="node167" href="$classmlir_1_1spirv_1_1ArrayType.html" title=" " alt="" coords="1021,1491,1181,1517"/>
+<area shape="rect" id="node168" href="$classmlir_1_1spirv_1_1CooperativeMatrixNVType.html" title=" " alt="" coords="1014,1542,1189,1583"/>
+<area shape="rect" id="node169" href="$classmlir_1_1spirv_1_1CooperativeMatrixType.html" title=" " alt="" coords="1014,1607,1189,1649"/>
+<area shape="rect" id="node170" href="$classmlir_1_1spirv_1_1ImageType.html" title=" " alt="" coords="1018,1673,1185,1700"/>
+<area shape="rect" id="node171" href="$classmlir_1_1spirv_1_1InterfaceVarABIAttr.html" title="An attribute that specifies the information regarding the interface variable: descriptor set,..." alt="" coords="1014,1725,1189,1766"/>
+<area shape="rect" id="node172" href="$classmlir_1_1spirv_1_1JointMatrixINTELType.html" title=" " alt="" coords="1018,1790,1185,1831"/>
+<area shape="rect" id="node173" href="$classmlir_1_1spirv_1_1MatrixType.html" title=" " alt="" coords="1018,1856,1185,1883"/>
+<area shape="rect" id="node174" href="$classmlir_1_1spirv_1_1PointerType.html" title=" " alt="" coords="1016,431,1187,457"/>
+<area shape="rect" id="node175" href="$classmlir_1_1spirv_1_1RuntimeArrayType.html" title=" " alt="" coords="994,481,1209,508"/>
+<area shape="rect" id="node176" href="$classmlir_1_1spirv_1_1SampledImageType.html" title=" " alt="" coords="990,532,1213,559"/>
+<area shape="rect" id="node177" href="$classmlir_1_1spirv_1_1StructType.html" title="SPIR&#45;V struct type." alt="" coords="1020,583,1183,609"/>
+<area shape="rect" id="node178" href="$classmlir_1_1spirv_1_1TargetEnvAttr.html" title="An attribute that specifies the target version, allowed extensions and capabilities,..." alt="" coords="1010,633,1193,660"/>
+<area shape="rect" id="node179" href="$classmlir_1_1spirv_1_1VerCapExtAttr.html" title="An attribute that specifies the SPIR&#45;V (version, capabilities, extensions) triple." alt="" coords="1008,684,1195,711"/>
+<area shape="rect" id="node183" href="$classmlir_1_1pdll_1_1ast_1_1AttrConstraintDecl.html" title="The class represents an Attribute constraint, and constrains a variable to be an Attribute." alt="" coords="983,2763,1219,2789"/>
+<area shape="rect" id="node184" href="$classmlir_1_1pdll_1_1ast_1_1AttributeExpr.html" title="This expression represents a literal MLIR Attribute, and contains the textual assembly format of that..." alt="" coords="1000,2813,1203,2840"/>
+<area shape="rect" id="node185" href="$classmlir_1_1pdll_1_1ast_1_1CallExpr.html" title="This expression represents a call to a decl, such as a UserConstraintDecl/UserRewriteDecl." alt="" coords="1016,3675,1187,3701"/>
+<area shape="rect" id="node186" href="$classmlir_1_1pdll_1_1ast_1_1CompoundStmt.html" title="This statement represents a compound statement, which contains a collection of other statements." alt="" coords="993,3725,1210,3752"/>
+<area shape="rect" id="node187" href="$classmlir_1_1pdll_1_1ast_1_1DeclRefExpr.html" title="This expression represents a reference to a Decl node." alt="" coords="1003,2864,1199,2891"/>
+<area shape="rect" id="node188" href="$classmlir_1_1pdll_1_1ast_1_1EraseStmt.html" title="This statement represents the erase statement in PDLL." alt="" coords="1010,2915,1193,2941"/>
+<area shape="rect" id="node189" href="$classmlir_1_1pdll_1_1ast_1_1LetStmt.html" title="This statement represents a let statement in PDLL." alt="" coords="1018,2965,1185,2992"/>
+<area shape="rect" id="node190" href="$classmlir_1_1pdll_1_1ast_1_1MemberAccessExpr.html" title="This expression represents a named member or field access of a given parent expression." alt="" coords="979,3016,1223,3043"/>
+<area shape="rect" id="node192" href="$classmlir_1_1pdll_1_1ast_1_1Module.html" title="This class represents a top&#45;level AST module." alt="" coords="1019,3776,1183,3803"/>
+<area shape="rect" id="node193" href="$classmlir_1_1pdll_1_1ast_1_1NamedAttributeDecl.html" title="This Decl represents a NamedAttribute, and contains a string name and attribute value." alt="" coords="977,3067,1226,3093"/>
+<area shape="rect" id="node194" href="$classmlir_1_1pdll_1_1ast_1_1OpConstraintDecl.html" title="The class represents an Operation constraint, and constrains a variable to be an Operation." alt="" coords="986,3117,1217,3144"/>
+<area shape="rect" id="node195" href="$classmlir_1_1pdll_1_1ast_1_1OpNameDecl.html" title="This Decl represents an OperationName." alt="" coords="1000,3168,1203,3195"/>
+<area shape="rect" id="node196" href="$classmlir_1_1pdll_1_1ast_1_1OperationExpr.html" title="This expression represents the structural form of an MLIR Operation." alt="" coords="997,3827,1206,3853"/>
+<area shape="rect" id="node197" href="$classmlir_1_1pdll_1_1ast_1_1PatternDecl.html" title="This Decl represents a single Pattern." alt="" coords="1006,3219,1197,3245"/>
+<area shape="rect" id="node198" href="$classmlir_1_1pdll_1_1ast_1_1RangeExpr.html" title="This expression builds a range from a set of element values (which may be ranges themselves)." alt="" coords="1008,3371,1195,3397"/>
+<area shape="rect" id="node199" href="$classmlir_1_1pdll_1_1ast_1_1ReplaceStmt.html" title="This statement represents the replace statement in PDLL." alt="" coords="1002,3421,1201,3448"/>
+<area shape="rect" id="node200" href="$classmlir_1_1pdll_1_1ast_1_1ReturnStmt.html" title="This statement represents a return from a &quot;callable&quot; like decl, e.g." alt="" coords="1006,3269,1197,3296"/>
+<area shape="rect" id="node201" href="$classmlir_1_1pdll_1_1ast_1_1RewriteStmt.html" title="This statement represents an operation rewrite that contains a block of nested rewrite commands." alt="" coords="1003,3320,1200,3347"/>
+<area shape="rect" id="node202" href="$classmlir_1_1pdll_1_1ast_1_1TupleExpr.html" title="This expression builds a tuple from a set of element values." alt="" coords="1012,3472,1191,3499"/>
+<area shape="rect" id="node203" href="$classmlir_1_1pdll_1_1ast_1_1TypeConstraintDecl.html" title="The class represents a Type constraint, and constrains a variable to be a Type." alt="" coords="980,2477,1223,2504"/>
+<area shape="rect" id="node204" href="$classmlir_1_1pdll_1_1ast_1_1TypeExpr.html" title="This expression represents a literal MLIR Type, and contains the textual assembly format of that type..." alt="" coords="1014,2528,1189,2555"/>
+<area shape="rect" id="node205" href="$classmlir_1_1pdll_1_1ast_1_1TypeRangeConstraintDecl.html" title="The class represents a TypeRange constraint, and constrains a variable to be a TypeRange." alt="" coords="1008,2579,1195,2621"/>
+<area shape="rect" id="node206" href="$classmlir_1_1pdll_1_1ast_1_1UserConstraintDecl.html" title="This decl represents a user defined constraint." alt="" coords="980,3523,1223,3549"/>
+<area shape="rect" id="node207" href="$classmlir_1_1pdll_1_1ast_1_1UserRewriteDecl.html" title="This decl represents a user defined rewrite." alt="" coords="989,3573,1214,3600"/>
+<area shape="rect" id="node208" href="$classmlir_1_1pdll_1_1ast_1_1ValueConstraintDecl.html" title="The class represents a Value constraint, and constrains a variable to be a Value." alt="" coords="977,2645,1225,2672"/>
+<area shape="rect" id="node209" href="$classmlir_1_1pdll_1_1ast_1_1ValueRangeConstraintDecl.html" title="The class represents a ValueRange constraint, and constrains a variable to be a ValueRange." alt="" coords="1005,2697,1198,2738"/>
+<area shape="rect" id="node210" href="$classmlir_1_1pdll_1_1ast_1_1VariableDecl.html" title="This Decl represents the definition of a PDLL variable." alt="" coords="1002,3624,1201,3651"/>
+<area shape="rect" id="node191" href="$classmlir_1_1pdll_1_1ast_1_1AllResultsMemberAccessExpr.html" title="This class represents an instance of MemberAccessExpr that references all results of an operation." alt="" coords="1341,3009,1523,3050"/>
+<area shape="rect" id="node211" title=" " alt="" coords="672,7213,829,7254"/>
+<area shape="rect" id="node212" href="$classmlir_1_1Block.html" title="Block represents an ordered list of Operations." alt="" coords="1055,8425,1147,8452"/>
+<area shape="rect" id="node213" href="$classmlir_1_1Operation.html" title="Operation is the basic unit of execution within MLIR." alt="" coords="1041,7008,1161,7035"/>
+<area shape="rect" id="node214" href="$classmlir_1_1IRObjectWithUseList.html" title=" " alt="" coords="656,8389,845,8430"/>
+<area shape="rect" id="node215" href="$classmlir_1_1OpState.html" title="This is the concrete base class that holds the operation pointer and has non&#45;generic methods that onl..." alt="" coords="342,8465,450,8492"/>
+<area shape="rect" id="node216" href="$classmlir_1_1Op.html" title=" " alt="" coords="580,8505,921,8591"/>
+<area shape="rect" id="node218" href="$classmlir_1_1Op.html" title=" " alt="" coords="605,8615,896,8715"/>
+<area shape="rect" id="node220" href="$classmlir_1_1Op.html" title=" " alt="" coords="655,8455,847,8481"/>
+<area shape="rect" id="node223" href="$classmlir_1_1Op.html" title="This provides public APIs that all operations should have." alt="" coords="660,6245,841,6286"/>
+<area shape="rect" id="node217" href="$classmlir_1_1affine_1_1AffineDmaWaitOp.html" title="AffineDmaWaitOp blocks until the completion of a DMA operation associated with the tag element &#39;tag[i..." alt="" coords="993,8572,1210,8599"/>
+<area shape="rect" id="node219" href="$classmlir_1_1affine_1_1AffineDmaStartOp.html" title="AffineDmaStartOp starts a non&#45;blocking DMA operation that transfers data from a source memref to a de..." alt="" coords="992,8652,1211,8679"/>
+<area shape="rect" id="node221" href="$classmlir_1_1detail_1_1Interface.html" title=" " alt="" coords="999,8477,1204,8547"/>
+<area shape="rect" id="node222" href="$classmlir_1_1OpInterface.html" title="This class represents the base of an operation interface." alt="" coords="1346,8874,1518,8915"/>
+<area shape="rect" id="node224" title=" " alt="" coords="673,3675,828,3701"/>
+<area shape="rect" id="node225" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="5,9141,212,9182"/>
+<area shape="rect" id="node226" href="$structmlir_1_1OpTrait_1_1MemRefsNormalizable.html" title=" " alt="" coords="267,8527,525,8569"/>
+<area shape="rect" id="node227" href="$structmlir_1_1OpTrait_1_1MemRefsNormalizable.html" title=" " alt="" coords="267,9103,525,9145"/>
+<area shape="rect" id="node228" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title=" " alt="" coords="269,9250,523,9321"/>
+<area shape="rect" id="node230" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title=" " alt="" coords="293,9345,499,9415"/>
+<area shape="rect" id="node232" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title=" " alt="" coords="265,9440,527,9496"/>
+<area shape="rect" id="node234" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiRegionTraitBase.html" title=" " alt="" coords="299,9521,493,9591"/>
+<area shape="rect" id="node236" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiRegionTraitBase.html" title=" " alt="" coords="274,9615,518,9686"/>
+<area shape="rect" id="node238" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiRegionTraitBase.html" title=" " alt="" coords="270,9711,522,9767"/>
+<area shape="rect" id="node240" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiResultTraitBase.html" title=" " alt="" coords="276,9791,516,9862"/>
+<area shape="rect" id="node242" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiResultTraitBase.html" title=" " alt="" coords="272,9887,520,9943"/>
+<area shape="rect" id="node244" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiResultTraitBase.html" title=" " alt="" coords="301,7403,491,7474"/>
+<area shape="rect" id="node246" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiSuccessorTraitBase.html" title=" " alt="" coords="264,8593,528,8663"/>
+<area shape="rect" id="node248" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiSuccessorTraitBase.html" title=" " alt="" coords="289,8687,503,8758"/>
+<area shape="rect" id="node250" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiSuccessorTraitBase.html" title=" " alt="" coords="260,9169,532,9225"/>
+<area shape="rect" id="node252" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="Utility trait base that provides accessors for derived traits that have multiple operands." alt="" coords="293,8783,499,8839"/>
+<area shape="rect" id="node253" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiRegionTraitBase.html" title="Utility trait base that provides accessors for derived traits that have multiple regions." alt="" coords="293,8863,499,8919"/>
+<area shape="rect" id="node254" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiResultTraitBase.html" title="Utility trait base that provides accessors for derived traits that have multiple results." alt="" coords="293,8943,499,8999"/>
+<area shape="rect" id="node255" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiSuccessorTraitBase.html" title="Utility trait base that provides accessors for derived traits that have multiple successors." alt="" coords="293,9023,499,9079"/>
+<area shape="rect" id="node229" href="$classmlir_1_1OpTrait_1_1AtLeastNOperands_1_1Impl.html" title=" " alt="" coords="635,9265,866,9306"/>
+<area shape="rect" id="node231" href="$classmlir_1_1OpTrait_1_1NOperands_1_1Impl.html" title=" " alt="" coords="642,9359,859,9401"/>
+<area shape="rect" id="node233" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="This class provides the API for ops which have an unknown number of SSA operands." alt="" coords="639,9447,863,9489"/>
+<area shape="rect" id="node235" href="$classmlir_1_1OpTrait_1_1NRegions_1_1Impl.html" title=" " alt="" coords="642,9535,859,9577"/>
+<area shape="rect" id="node237" href="$classmlir_1_1OpTrait_1_1AtLeastNRegions_1_1Impl.html" title=" " alt="" coords="640,9630,861,9671"/>
+<area shape="rect" id="node239" href="$classmlir_1_1OpTrait_1_1VariadicRegions.html" title="This class provides the API for ops which have an unknown number of regions." alt="" coords="643,9718,858,9759"/>
+<area shape="rect" id="node241" href="$classmlir_1_1OpTrait_1_1AtLeastNResults_1_1Impl.html" title=" " alt="" coords="642,9806,859,9847"/>
+<area shape="rect" id="node243" href="$classmlir_1_1OpTrait_1_1VariadicResults.html" title="This class provides the API for ops which have an unknown number of results." alt="" coords="645,9894,856,9935"/>
+<area shape="rect" id="node245" href="$classmlir_1_1OpTrait_1_1NResults_1_1Impl.html" title=" " alt="" coords="642,6179,859,6221"/>
+<area shape="rect" id="node247" href="$classmlir_1_1OpTrait_1_1AtLeastNSuccessors_1_1Impl.html" title=" " alt="" coords="630,8739,871,8781"/>
+<area shape="rect" id="node249" href="$classmlir_1_1OpTrait_1_1NSuccessors_1_1Impl.html" title=" " alt="" coords="642,8805,859,8846"/>
+<area shape="rect" id="node251" href="$classmlir_1_1OpTrait_1_1VariadicSuccessors.html" title="This class provides the API for ops which have an unknown number of successors." alt="" coords="633,9177,868,9218"/>
+<area shape="rect" id="node256" title=" " alt="" coords="367,4779,425,4805"/>
+</map>
